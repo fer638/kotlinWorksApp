@@ -7,4 +7,21 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+<!--Todoapp-->
+    <color name="background_card">#ff081a4a</color>
+    <color name="background_dissabled">#787878</color>
+    <color name="background_app">#ff2d4993</color>
+    <color name="subtitle_text">#959595</color>
+    <color name="accent">#e91e63</color>
+
+    <color name="business_category">#ff9800</color>
+    <color name="perosnal_category">#00bcd4</color>
+    <color name="other_category">#4caf50</color>
+
+
+
+
+
+
 </resources>
